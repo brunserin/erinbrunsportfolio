@@ -9,14 +9,14 @@
 											/* HOME PAGE */
 .name 
 {
-	margin-top: 10%;
-	margin-left: 20%;
-
+	font-size: 2em;
 }
 
 .ux 
 {
-	margin-left: 20%;
+	padding-left: 1%;
+	font-weight: normal;
+	font-size: 1em;
 }
 
 .pages
@@ -27,8 +27,8 @@
 
 img.airbnb
 {
-	margin-top: 5%;
-	margin-left: 20%;
+	margin-top: 14%;
+	margin-left: 25%;
 	width: 60%;
 	height: auto; 
 }
@@ -36,7 +36,7 @@ img.airbnb
 img.bus
 {
 	margin-top: 2%;
-	margin-left: 20%;
+	margin-left: 25%;
 	width: 60%;
 	height: auto; 
 }
@@ -44,7 +44,7 @@ img.bus
 img.flat
 {
 	margin-top: 2%;
-	margin-left: 20%;
+	margin-left: 25%;
 	margin-bottom: 5%;
 	width: 60%;
 	height: auto; 
@@ -53,7 +53,7 @@ img.flat
 img.habits
 {
 	margin-top: 2%;
-	margin-left: 20%;
+	margin-left: 25%;
 	width: 60%;
 	height: auto; 
 }
@@ -65,8 +65,8 @@ img.habits
 .erin
 {
 	font-family: "Roboto:", sans-serif;
-	padding-top: 10%;
-	padding-left: 50%;
+	padding-top: 14%;
+	padding-left: 55%;
 }
 
 .about 
@@ -74,9 +74,19 @@ img.habits
 	font-family: "Roboto:", sans-serif;
 	font-weight: normal;
 	font-style: normal;
-	padding-left: 50%;
+	padding-left: 55%;
 	padding-right: 10%;
 	font-size: 0.87em;
+	font-color: grey;
+}
+.insta
+{
+	font-family: "Roboto:", sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	padding-left: 55%;
+	padding-right: 10%;
+	font-size: 0.5em;
 	font-color: grey;
 }
 
@@ -88,18 +98,16 @@ img.habits
 	padding-left: 50%;
 	font-family: "Roboto:", sans-serif;
 	font-size: 0.87em; 
-	font-color: #75afb3;
-
-	
-}
+	font-color: solid #75afb3;
+} 
 
 img.me 
 {
-	width: 45%;
+	width: 30%;
 	height: auto;
 	float: left;
-	padding-top: 2%;
-	padding-left: 2%;
+	padding-top: 14%;
+	padding-left: 22%; 
 }
 
 a:link
@@ -120,7 +128,7 @@ a:visited
 	text-decoration: underline solid #75afb3;
 }
 
-											/* AIRBNB PAGE */
+											/* Project PAGEs */
 .title
 {
 	padding-left: 20%;
@@ -176,7 +184,16 @@ img.second
 	display: block;
 	font-size: 0.87em; 
 	padding-bottom: 2%;
+}
 
+.bullets
+{
+	padding-left: 25%;
+	padding-right: 20%;
+	text-decoration: none;
+	font-family: "Roboto:", sans-serif;
+	display: block;
+	font-size: 0.87em; 
 
 }
 

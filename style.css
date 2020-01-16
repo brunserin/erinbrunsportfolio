@@ -104,8 +104,8 @@ img.me
 
 a:link
 {
-	color: solid black;
-	text-decoration: underline solid #75afb3;
+	color: solid #75afb3;
+	text-decoration: underline solid;
 }
 
 a:hover

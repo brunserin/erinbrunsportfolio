@@ -133,7 +133,7 @@ a:visited
 											/* Project PAGEs */
 .title
 {
-	padding-left: 20%;
+	padding-left: 27%;
 	text-decoration: none;
 	font-family: "Proxima:", sans-serif;
 	font-size: 2em;
@@ -146,14 +146,14 @@ a:visited
 	display: block;
 	line-height: 1.5em;
 	font-size: 1em;
-	padding-left: 20%;
+	padding-left: 27%;
 	padding-right: 20%;
 	padding-top: 2%;
 }
 
 img.first
 {
-	padding-left: 20%;
+	padding-left: 27%;
 	width: 60%;
 	height: auto;
 	padding-top: 2%;
@@ -169,7 +169,7 @@ img.second
 
 .subtitle
 {
-	padding-left: 20%;
+	padding-left: 27%;
 	font-family: "Proxima:", sans-serif;
 	line-height: 1.25em;
 	display: block;
@@ -180,7 +180,7 @@ img.second
 
 .information
 {
-	padding-left: 20%;
+	padding-left: 27%;
 	padding-right: 20%;
 	padding-top: 2%;
 	text-decoration: none;
@@ -193,7 +193,7 @@ img.second
 
 .bullets
 {
-	padding-left: 25%;
+	padding-left: 29%;
 	padding-right: 20%;
 	text-decoration: none;
 	font-family: "Proxima:", sans-serif;

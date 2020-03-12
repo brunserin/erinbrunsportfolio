@@ -34,6 +34,14 @@ img.airbnb
 	height: auto; 
 }
 
+img.nuvotes
+{
+	margin-top: 2%;
+	margin-left: 27%;
+	width: 60%;
+	height: auto; 
+}
+
 img.bus
 {
 	margin-top: 2%;
@@ -154,7 +162,7 @@ a:visited
 img.first
 {
 	padding-left: 27%;
-	width: 60%;
+	width: 50%;
 	height: auto;
 	padding-top: 2%;
 }
